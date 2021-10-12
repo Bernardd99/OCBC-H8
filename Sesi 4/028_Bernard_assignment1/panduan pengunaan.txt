@@ -28,3 +28,7 @@ maka akan muncul perintah untuk menginput kata, yang kemudian akan mengoutput ka
 maka akan muncul data diri peserta.
 
 =>NOTE : setelah operasi tiap menu selesai, maka user akan ditanya apakah ingin kembali ke menu awal atau tidak, jika menjawab dengan "y" maka akan kembali ke menu awal, jika menjawab dengan "n"(atau huruf selain "y") maka code akan berhenti
+
+=>NOTE : untuk penamaan class nya tidak bisa angka di depan jadi saya menaruh nama terlebih dahulu, tetapi untuk nama file dan zip bisa jadi saya taruh angka di depan.
+
+Terima kasih.
