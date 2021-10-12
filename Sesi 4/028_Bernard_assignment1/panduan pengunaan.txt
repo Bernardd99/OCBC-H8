@@ -1,0 +1,27 @@
+link github :
+
+panduan pengunaan program / menu :
+
+=>User akan memulai program dengan cara menekan klik kanan pada layar code dan memilih Run Code, kemudian akan muncul data peserta dan dibawahnya terdapat menu yang terdiri dari 6 pilihan.
+
+=>Dari 6 pilihan menu user akan diminta untuk menginput angka dari 1 sampai 6 sesuai dengan menu, dimana user hanya dapat menginput angka 1 hingga 6 sesuai dengan validasi while(input < 1 || input > 6) yang telah dibuat
+
+=>Jika user menginput 1 (Soal 1, Segitiga Alfabet), 
+maka akan muncul perintah untuk menginput jumlah baris segitiga yang diinginkan mulai dari 1 sampai 26 baris, setelah user menginput maka segitiga yang terdiri dari alfabet akan muncul sesuai dengan jumlah baris yang telah diinput
+
+=>Jika user menginput 2 (Soal 2, Segitiga Angka), 
+maka akan muncul perintah untuk menginput jumlah baris segitiga yang diinginkan, setelah user menginput maka segitiga yang terdiri dari angka akan muncul sesuai dengan jumlah baris yang telah diinput
+
+=>Jika user menginput 3 (Soal 3, Faktorial), 
+maka akan muncul perintah untuk menginput angka untuk dilakukan faktorial, misal menginput 6 maka akan menghitung faktorial 6(yaitu !6).
+
+=>Jika user menginput 4 (Soal 4, Balik Angka),
+maka akan muncul perintah untuk menginput sejumlah angka yang nantinya akan mengoutput inputan angka yang telah dibalik.
+
+=>Jika user menginput 5 (Soal 5, Convert Angka ke String), 
+maka akan muncul perintah untuk menginput sejumlah angka, dimana masing-masing angka akan di convert ke dalam bentuk kata dan akan ditampilkan secara bersamaan dalam 1 baris.
+
+=>Jika user menginput 6 (Soal 6, Palyndrome), 
+maka akan muncul perintah untuk menginput kata, yang kemudian akan mengoutput kata yang telah diinput, inputan kata yang dibalik, dan apakah kata tersebut palyndrome atau tidak. 
+
+=>NOTE : setelah operasi tiap menu selesai, maka user akan ditanya apakah ingin kembali ke menu awal atau tidak, jika menjawab dengan "y" maka akan kembali ke menu awal, jika menjawab dengan "n"(atau huruf selain "y") maka code akan berhenti
