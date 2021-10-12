@@ -10,18 +10,12 @@ public class Bernard_028_assignment1
         int input;
         string kembali;
 
-        Console.WriteLine("---Assignment 1---");
-        Console.WriteLine("==================");
-        Console.WriteLine("Selamat Datang di Assignment 1");
-        Console.WriteLine();
-        Console.WriteLine("Nama Lengkap : " + nama);
-        Console.WriteLine("Nomor Peserta : " + nomorPeserta);
-        Console.WriteLine("Alamat Lengkap : " + alamat);
-        Console.WriteLine("==================");
-        Console.WriteLine();
-
         do
         {
+            Console.WriteLine();
+            Console.WriteLine("---Assignment 1---");
+            Console.WriteLine("==================");
+            Console.WriteLine("Selamat Datang di Assignment 1");
             Console.WriteLine();
             Console.WriteLine("---Menu---");
             Console.WriteLine("1. Soal 1 (Segitiga Alfabet)");
@@ -30,11 +24,13 @@ public class Bernard_028_assignment1
             Console.WriteLine("4. Soal 4 (Balik Angka)");
             Console.WriteLine("5. Soal 5 (Convert Angka ke String)");
             Console.WriteLine("6. Soal 6 (Palyndrome)");
+            Console.WriteLine("7. About Me / Tentang Saya");
+
             do
             {
-                Console.Write("Please Input The Menu Number[1-6] : ");
+                Console.Write("Please Input The Menu Number[1-7] : ");
                 input = int.Parse(Console.ReadLine());
-            } while (input < 1 || input > 6);
+            } while (input < 1 || input > 7);
 
             switch (input)
             {
@@ -223,11 +219,23 @@ public class Bernard_028_assignment1
                         }
                         break;
                     }
+                case 7:
+                    {
+                        Console.WriteLine();
+                        Console.WriteLine("==================");
+                        Console.WriteLine("Nama Lengkap : " + nama);
+                        Console.WriteLine("Nomor Peserta : " + nomorPeserta);
+                        Console.WriteLine("Alamat Lengkap : " + alamat);
+                        Console.WriteLine("==================");
+                        Console.WriteLine();
+                        break;
+                    }
             }
             Console.WriteLine();
             Console.WriteLine("Kembali ke menu awal?[Y/N] : ");
             kembali = Console.ReadLine().ToLower();
         } while (kembali == "y");
         Console.WriteLine("Sampai Jumpa!");
+        Console.WriteLine();
     }
 }
