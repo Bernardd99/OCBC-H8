@@ -1,0 +1,94 @@
+--A
+CREATE DATABASE db_staff;
+
+--B
+CREATE TABLE tb_data_staff(
+	nik int PRIMARY KEY IDENTITY(1,1),
+	nama varchar(50) NOT NULL,
+	alamat varchar(200) NOT NULL,
+	handphone varchar(15) NOT NULL
+)
+
+--C dan D
+INSERT INTO tb_data_staff(nama, alamat, handphone)
+VALUES 
+('Bernard','Jambi','0123456789'),
+('Bernard1','Jambi','0123456788'),
+('Bernard2','Jambi','0123456787'),
+('Bernard3','Jambi','0123456786'),
+('Bernard4','Jambi','0123456785');
+
+--E
+ALTER TABLE tb_data_staff ADD joindate date;
+INSERT INTO tb_data_staff(nama, alamat, handphone,joindate)
+VALUES ('Bernard5','Jambi','0123456784', '2021-9-9');
+
+--F
+SELECT TOP 2 * FROM tb_data_staff;
+
+--G
+SELECT TOP 3 * FROM tb_data_staff;
+
+--H
+CREATE TABLE tb_staff_outsource(
+	nik int PRIMARY KEY IDENTITY(1,1),
+	nama varchar(50) NOT NULL,
+	alamat varchar(200) NOT NULL,
+	handphone varchar(15) NOT NULL,
+	joindate date NOT NULL
+)
+
+--I
+INSERT INTO tb_staff_outsource (nama, alamat, handphone, joindate)
+VALUES 
+('Bernard','Jambi','0123456789', '2021-9-9'),
+('Bernard1','Jambi','0123456788', '2021-9-8'),
+('Bernard2','Jambi','0123456787', '2021-9-7'),
+('Bernard3','Jambi','0123456786', '2021-9-6'),
+('Bernard4','Jambi','0123456785', '2021-9-5'),
+('Bernard5','Jambi','0123456784', '2021-9-4'),
+('Bernard6','Jambi','0123456783', '2021-9-3'),
+('Bernard7','Jambi','0123456782', '2021-9-2'),
+('Bernard8','Jambi','0123456781', '2021-9-1'),
+('Bernard9','Jambi','0123456780', '2021-9-10');
+
+--J
+SELECT *
+FROM tb_data_staff tds 
+INNER JOIN tb_staff_outsource tso ON tds.joindate = tso.joindate 
+
+--K
+SELECT *
+FROM tb_data_staff tds 
+RIGHT JOIN tb_staff_outsource tso 
+ON tds.nik = tso.nik;
+
+--L
+SELECT *
+FROM tb_data_staff tds 
+LEFT JOIN tb_staff_outsource tso 
+ON tds.nik = tso.nik;
+
+--M
+SELECT *
+FROM tb_data_staff tds 
+FULL JOIN tb_staff_outsource tso 
+ON tds.nik = tso.nik;
+
+
+-- Hanya mencoba yang diperagakan
+SELECT tds.nik , tds.nama , tds.joindate 
+FROM tb_data_staff tds 
+UNION ALL
+SELECT tso.nik , tso.nama , tso.joindate 
+FROM tb_staff_outsource tso 
+ORDER BY joindate ASC;
+
+SELECT nama FROM (
+	SELECT nik, nama, joindate
+	FROM tb_data_staff
+	UNION ALL
+	SELECT nik, nama, joindate
+	FROM tb_staff_outsource
+) AS nama1
+Group BY nama
