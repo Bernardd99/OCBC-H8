@@ -13,19 +13,21 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Work\\Sesi 1\\Hello\\Sesi 1.csproj",
+      "projectUniqueName": "D:\\Internship OCBC\\Work\\Sesi 1\\Hello\\Sesi 1.csproj",
       "projectName": "Sesi 1",
-      "projectPath": "D:\\Work\\Sesi 1\\Hello\\Sesi 1.csproj",
+      "projectPath": "D:\\Internship OCBC\\Work\\Sesi 1\\Hello\\Sesi 1.csproj",
       "packagesPath": "C:\\Users\\Bernard\\.nuget\\packages\\",
-      "outputPath": "D:\\Work\\Sesi 1\\Hello\\obj\\",
+      "outputPath": "D:\\Internship OCBC\\Work\\Sesi 1\\Hello\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Bernard\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Bernard\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
