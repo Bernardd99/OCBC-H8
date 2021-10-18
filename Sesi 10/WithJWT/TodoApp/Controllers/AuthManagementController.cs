@@ -65,7 +65,6 @@ namespace TodoApp.Controllers
                 }
                 else
                 {
-
                     return Ok(new RegistrationResponse()
                     {
                         Errors = isCreated.Errors.Select(x => x.Description).ToList(),

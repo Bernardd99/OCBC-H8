@@ -1895,11 +1895,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\testing\\todoapp\\TodoApp.csproj",
+      "projectUniqueName": "D:\\Internship OCBC\\Work\\sesi 10\\WithJWT\\TodoApp\\TodoApp.csproj",
       "projectName": "TodoApp",
-      "projectPath": "D:\\testing\\todoapp\\TodoApp.csproj",
+      "projectPath": "D:\\Internship OCBC\\Work\\sesi 10\\WithJWT\\TodoApp\\TodoApp.csproj",
       "packagesPath": "C:\\Users\\Bernard\\.nuget\\packages\\",
-      "outputPath": "D:\\testing\\todoapp\\obj\\",
+      "outputPath": "D:\\Internship OCBC\\Work\\sesi 10\\WithJWT\\TodoApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Bernard\\AppData\\Roaming\\NuGet\\NuGet.Config",

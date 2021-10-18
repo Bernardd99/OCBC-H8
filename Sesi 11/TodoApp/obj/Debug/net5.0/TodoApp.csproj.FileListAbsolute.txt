@@ -1,0 +1,349 @@
+D:\Internship OCBC\Work\sesi 10\TodoApp\obj\Debug\net5.0\TodoApp.csproj.AssemblyReference.cache
+D:\Internship OCBC\Work\sesi 10\TodoApp\obj\Debug\net5.0\TodoApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Internship OCBC\Work\sesi 10\TodoApp\obj\Debug\net5.0\TodoApp.AssemblyInfoInputs.cache
+D:\Internship OCBC\Work\sesi 10\TodoApp\obj\Debug\net5.0\TodoApp.AssemblyInfo.cs
+D:\Internship OCBC\Work\sesi 10\TodoApp\obj\Debug\net5.0\TodoApp.csproj.CoreCompileInputs.cache
+D:\Internship OCBC\Work\sesi 10\TodoApp\obj\Debug\net5.0\TodoApp.MvcApplicationPartsAssemblyInfo.cs
+D:\Internship OCBC\Work\sesi 10\TodoApp\obj\Debug\net5.0\TodoApp.MvcApplicationPartsAssemblyInfo.cache
+D:\Internship OCBC\Work\sesi 10\TodoApp\bin\Debug\net5.0\appsettings.Development.json
+D:\Internship OCBC\Work\sesi 10\TodoApp\bin\Debug\net5.0\appsettings.json
+D:\Internship OCBC\Work\sesi 10\TodoApp\bin\Debug\net5.0\TodoApp.exe
+D:\Internship OCBC\Work\sesi 10\TodoApp\bin\Debug\net5.0\TodoApp.deps.json
+D:\Internship OCBC\Work\sesi 10\TodoApp\bin\Debug\net5.0\TodoApp.runtimeconfig.json
+D:\Internship OCBC\Work\sesi 10\TodoApp\bin\Debug\net5.0\TodoApp.runtimeconfig.dev.json
+D:\Internship OCBC\Work\sesi 10\TodoApp\bin\Debug\net5.0\TodoApp.dll
+D:\Internship OCBC\Work\sesi 10\TodoApp\bin\Debug\net5.0\ref\TodoApp.dll
+D:\Internship OCBC\Work\sesi 10\TodoApp\bin\Debug\net5.0\TodoApp.pdb
+D:\Internship OCBC\Work\sesi 10\TodoApp\bin\Debug\net5.0\Humanizer.dll
+D:\Internship OCBC\Work\sesi 10\TodoApp\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+D:\Internship OCBC\Work\sesi 10\TodoApp\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Internship OCBC\Work\sesi 10\TodoApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Internship OCBC\Work\sesi 10\TodoApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Internship OCBC\Work\sesi 10\TodoApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Internship OCBC\Work\sesi 10\TodoApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Internship OCBC\Work\sesi 10\TodoApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Internship OCBC\Work\sesi 10\TodoApp\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Internship OCBC\Work\sesi 10\TodoApp\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\Internship OCBC\Work\sesi 10\TodoApp\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Internship OCBC\Work\sesi 10\TodoApp\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+D:\Internship OCBC\Work\sesi 10\TodoApp\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+D:\Internship OCBC\Work\sesi 10\TodoApp\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+D:\Internship OCBC\Work\sesi 10\TodoApp\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\Internship OCBC\Work\sesi 10\TodoApp\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Internship OCBC\Work\sesi 10\TodoApp\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Internship OCBC\Work\sesi 10\TodoApp\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Internship OCBC\Work\sesi 10\TodoApp\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Internship OCBC\Work\sesi 10\TodoApp\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\Internship OCBC\Work\sesi 10\TodoApp\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Internship OCBC\Work\sesi 10\TodoApp\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Internship OCBC\Work\sesi 10\TodoApp\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Internship OCBC\Work\sesi 10\TodoApp\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\Internship OCBC\Work\sesi 10\TodoApp\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Internship OCBC\Work\sesi 10\TodoApp\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Internship OCBC\Work\sesi 10\TodoApp\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Internship OCBC\Work\sesi 10\TodoApp\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Internship OCBC\Work\sesi 10\TodoApp\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\Internship OCBC\Work\sesi 10\TodoApp\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Internship OCBC\Work\sesi 10\TodoApp\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\Internship OCBC\Work\sesi 10\TodoApp\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\Internship OCBC\Work\sesi 10\TodoApp\obj\Debug\net5.0\staticwebassets\TodoApp.StaticWebAssets.Manifest.cache
+D:\Internship OCBC\Work\sesi 10\TodoApp\obj\Debug\net5.0\staticwebassets\TodoApp.StaticWebAssets.xml
+D:\Internship OCBC\Work\sesi 10\TodoApp\obj\Debug\net5.0\scopedcss\bundle\TodoApp.styles.css
+D:\Internship OCBC\Work\sesi 10\TodoApp\obj\Debug\net5.0\TodoApp.RazorTargetAssemblyInfo.cache
+D:\Internship OCBC\Work\sesi 10\TodoApp\obj\Debug\net5.0\TodoApp.csproj.CopyComplete
+D:\Internship OCBC\Work\sesi 10\TodoApp\obj\Debug\net5.0\TodoApp.dll
+D:\Internship OCBC\Work\sesi 10\TodoApp\obj\Debug\net5.0\ref\TodoApp.dll
+D:\Internship OCBC\Work\sesi 10\TodoApp\obj\Debug\net5.0\TodoApp.pdb
+D:\Internship OCBC\Work\sesi 10\TodoApp\obj\Debug\net5.0\TodoApp.genruntimeconfig.cache
+D:\testing\todoapp\bin\Debug\net5.0\appsettings.Development.json
+D:\testing\todoapp\bin\Debug\net5.0\appsettings.json
+D:\testing\todoapp\bin\Debug\net5.0\TodoApp.exe
+D:\testing\todoapp\bin\Debug\net5.0\TodoApp.deps.json
+D:\testing\todoapp\bin\Debug\net5.0\TodoApp.runtimeconfig.json
+D:\testing\todoapp\bin\Debug\net5.0\TodoApp.runtimeconfig.dev.json
+D:\testing\todoapp\bin\Debug\net5.0\TodoApp.dll
+D:\testing\todoapp\bin\Debug\net5.0\ref\TodoApp.dll
+D:\testing\todoapp\bin\Debug\net5.0\TodoApp.pdb
+D:\testing\todoapp\bin\Debug\net5.0\Humanizer.dll
+D:\testing\todoapp\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+D:\testing\todoapp\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\testing\todoapp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\testing\todoapp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\testing\todoapp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\testing\todoapp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\testing\todoapp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\testing\todoapp\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\testing\todoapp\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\testing\todoapp\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\testing\todoapp\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+D:\testing\todoapp\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+D:\testing\todoapp\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+D:\testing\todoapp\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\testing\todoapp\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\testing\todoapp\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\testing\todoapp\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\testing\todoapp\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\testing\todoapp\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\testing\todoapp\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\testing\todoapp\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\testing\todoapp\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\testing\todoapp\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\testing\todoapp\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\testing\todoapp\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\testing\todoapp\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\testing\todoapp\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\testing\todoapp\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\testing\todoapp\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\testing\todoapp\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\testing\todoapp\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\testing\todoapp\obj\Debug\net5.0\TodoApp.csproj.AssemblyReference.cache
+D:\testing\todoapp\obj\Debug\net5.0\TodoApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\testing\todoapp\obj\Debug\net5.0\TodoApp.AssemblyInfoInputs.cache
+D:\testing\todoapp\obj\Debug\net5.0\TodoApp.AssemblyInfo.cs
+D:\testing\todoapp\obj\Debug\net5.0\TodoApp.csproj.CoreCompileInputs.cache
+D:\testing\todoapp\obj\Debug\net5.0\TodoApp.MvcApplicationPartsAssemblyInfo.cs
+D:\testing\todoapp\obj\Debug\net5.0\TodoApp.MvcApplicationPartsAssemblyInfo.cache
+D:\testing\todoapp\obj\Debug\net5.0\staticwebassets\TodoApp.StaticWebAssets.Manifest.cache
+D:\testing\todoapp\obj\Debug\net5.0\staticwebassets\TodoApp.StaticWebAssets.xml
+D:\testing\todoapp\obj\Debug\net5.0\scopedcss\bundle\TodoApp.styles.css
+D:\testing\todoapp\obj\Debug\net5.0\TodoApp.RazorTargetAssemblyInfo.cache
+D:\testing\todoapp\obj\Debug\net5.0\TodoApp.csproj.CopyComplete
+D:\testing\todoapp\obj\Debug\net5.0\TodoApp.dll
+D:\testing\todoapp\obj\Debug\net5.0\ref\TodoApp.dll
+D:\testing\todoapp\obj\Debug\net5.0\TodoApp.pdb
+D:\testing\todoapp\obj\Debug\net5.0\TodoApp.genruntimeconfig.cache
+D:\testing\todoapp\bin\Debug\net5.0\TodoApp.StaticWebAssets.xml
+D:\testing\todoapp\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\testing\todoapp\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\testing\todoapp\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\testing\todoapp\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\testing\todoapp\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\testing\todoapp\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\testing\todoapp\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\testing\todoapp\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\testing\todoapp\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\testing\todoapp\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\testing\todoapp\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\testing\todoapp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\testing\todoapp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\testing\todoapp\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\testing\todoapp\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Internship OCBC\Work\sesi 10\WithJWT\TodoApp\bin\Debug\net5.0\appsettings.Development.json
+D:\Internship OCBC\Work\sesi 10\WithJWT\TodoApp\bin\Debug\net5.0\appsettings.json
+D:\Internship OCBC\Work\sesi 10\WithJWT\TodoApp\bin\Debug\net5.0\TodoApp.StaticWebAssets.xml
+D:\Internship OCBC\Work\sesi 10\WithJWT\TodoApp\bin\Debug\net5.0\TodoApp.exe
+D:\Internship OCBC\Work\sesi 10\WithJWT\TodoApp\bin\Debug\net5.0\TodoApp.deps.json
+D:\Internship OCBC\Work\sesi 10\WithJWT\TodoApp\bin\Debug\net5.0\TodoApp.runtimeconfig.json
+D:\Internship OCBC\Work\sesi 10\WithJWT\TodoApp\bin\Debug\net5.0\TodoApp.runtimeconfig.dev.json
+D:\Internship OCBC\Work\sesi 10\WithJWT\TodoApp\bin\Debug\net5.0\TodoApp.dll
+D:\Internship OCBC\Work\sesi 10\WithJWT\TodoApp\bin\Debug\net5.0\ref\TodoApp.dll
+D:\Internship OCBC\Work\sesi 10\WithJWT\TodoApp\bin\Debug\net5.0\TodoApp.pdb
+D:\Internship OCBC\Work\sesi 10\WithJWT\TodoApp\bin\Debug\net5.0\Humanizer.dll
+D:\Internship OCBC\Work\sesi 10\WithJWT\TodoApp\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Internship OCBC\Work\sesi 10\WithJWT\TodoApp\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Internship OCBC\Work\sesi 10\WithJWT\TodoApp\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Internship OCBC\Work\sesi 10\WithJWT\TodoApp\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Internship OCBC\Work\sesi 10\WithJWT\TodoApp\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\Internship OCBC\Work\sesi 10\WithJWT\TodoApp\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\Internship OCBC\Work\sesi 10\WithJWT\TodoApp\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+D:\Internship OCBC\Work\sesi 10\WithJWT\TodoApp\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Internship OCBC\Work\sesi 10\WithJWT\TodoApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Internship OCBC\Work\sesi 10\WithJWT\TodoApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Internship OCBC\Work\sesi 10\WithJWT\TodoApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Internship OCBC\Work\sesi 10\WithJWT\TodoApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Internship OCBC\Work\sesi 10\WithJWT\TodoApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Internship OCBC\Work\sesi 10\WithJWT\TodoApp\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Internship OCBC\Work\sesi 10\WithJWT\TodoApp\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\Internship OCBC\Work\sesi 10\WithJWT\TodoApp\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Internship OCBC\Work\sesi 10\WithJWT\TodoApp\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\Internship OCBC\Work\sesi 10\WithJWT\TodoApp\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Internship OCBC\Work\sesi 10\WithJWT\TodoApp\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Internship OCBC\Work\sesi 10\WithJWT\TodoApp\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Internship OCBC\Work\sesi 10\WithJWT\TodoApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Internship OCBC\Work\sesi 10\WithJWT\TodoApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Internship OCBC\Work\sesi 10\WithJWT\TodoApp\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Internship OCBC\Work\sesi 10\WithJWT\TodoApp\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Internship OCBC\Work\sesi 10\WithJWT\TodoApp\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+D:\Internship OCBC\Work\sesi 10\WithJWT\TodoApp\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+D:\Internship OCBC\Work\sesi 10\WithJWT\TodoApp\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+D:\Internship OCBC\Work\sesi 10\WithJWT\TodoApp\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\Internship OCBC\Work\sesi 10\WithJWT\TodoApp\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Internship OCBC\Work\sesi 10\WithJWT\TodoApp\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Internship OCBC\Work\sesi 10\WithJWT\TodoApp\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Internship OCBC\Work\sesi 10\WithJWT\TodoApp\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Internship OCBC\Work\sesi 10\WithJWT\TodoApp\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Internship OCBC\Work\sesi 10\WithJWT\TodoApp\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\Internship OCBC\Work\sesi 10\WithJWT\TodoApp\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Internship OCBC\Work\sesi 10\WithJWT\TodoApp\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Internship OCBC\Work\sesi 10\WithJWT\TodoApp\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Internship OCBC\Work\sesi 10\WithJWT\TodoApp\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\Internship OCBC\Work\sesi 10\WithJWT\TodoApp\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Internship OCBC\Work\sesi 10\WithJWT\TodoApp\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Internship OCBC\Work\sesi 10\WithJWT\TodoApp\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Internship OCBC\Work\sesi 10\WithJWT\TodoApp\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Internship OCBC\Work\sesi 10\WithJWT\TodoApp\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\Internship OCBC\Work\sesi 10\WithJWT\TodoApp\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Internship OCBC\Work\sesi 10\WithJWT\TodoApp\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\Internship OCBC\Work\sesi 10\WithJWT\TodoApp\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\Internship OCBC\Work\sesi 10\WithJWT\TodoApp\obj\Debug\net5.0\TodoApp.csproj.AssemblyReference.cache
+D:\Internship OCBC\Work\sesi 10\WithJWT\TodoApp\obj\Debug\net5.0\TodoApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Internship OCBC\Work\sesi 10\WithJWT\TodoApp\obj\Debug\net5.0\TodoApp.AssemblyInfoInputs.cache
+D:\Internship OCBC\Work\sesi 10\WithJWT\TodoApp\obj\Debug\net5.0\TodoApp.AssemblyInfo.cs
+D:\Internship OCBC\Work\sesi 10\WithJWT\TodoApp\obj\Debug\net5.0\TodoApp.csproj.CoreCompileInputs.cache
+D:\Internship OCBC\Work\sesi 10\WithJWT\TodoApp\obj\Debug\net5.0\TodoApp.MvcApplicationPartsAssemblyInfo.cs
+D:\Internship OCBC\Work\sesi 10\WithJWT\TodoApp\obj\Debug\net5.0\TodoApp.MvcApplicationPartsAssemblyInfo.cache
+D:\Internship OCBC\Work\sesi 10\WithJWT\TodoApp\obj\Debug\net5.0\staticwebassets\TodoApp.StaticWebAssets.Manifest.cache
+D:\Internship OCBC\Work\sesi 10\WithJWT\TodoApp\obj\Debug\net5.0\staticwebassets\TodoApp.StaticWebAssets.xml
+D:\Internship OCBC\Work\sesi 10\WithJWT\TodoApp\obj\Debug\net5.0\scopedcss\bundle\TodoApp.styles.css
+D:\Internship OCBC\Work\sesi 10\WithJWT\TodoApp\obj\Debug\net5.0\TodoApp.RazorTargetAssemblyInfo.cache
+D:\Internship OCBC\Work\sesi 10\WithJWT\TodoApp\obj\Debug\net5.0\TodoApp.csproj.CopyComplete
+D:\Internship OCBC\Work\sesi 10\WithJWT\TodoApp\obj\Debug\net5.0\TodoApp.dll
+D:\Internship OCBC\Work\sesi 10\WithJWT\TodoApp\obj\Debug\net5.0\ref\TodoApp.dll
+D:\Internship OCBC\Work\sesi 10\WithJWT\TodoApp\obj\Debug\net5.0\TodoApp.pdb
+D:\Internship OCBC\Work\sesi 10\WithJWT\TodoApp\obj\Debug\net5.0\TodoApp.genruntimeconfig.cache
+D:\testttt\todoapp\bin\Debug\net5.0\appsettings.Development.json
+D:\testttt\todoapp\bin\Debug\net5.0\appsettings.json
+D:\testttt\todoapp\bin\Debug\net5.0\TodoApp.StaticWebAssets.xml
+D:\testttt\todoapp\bin\Debug\net5.0\TodoApp.exe
+D:\testttt\todoapp\bin\Debug\net5.0\TodoApp.deps.json
+D:\testttt\todoapp\bin\Debug\net5.0\TodoApp.runtimeconfig.json
+D:\testttt\todoapp\bin\Debug\net5.0\TodoApp.runtimeconfig.dev.json
+D:\testttt\todoapp\bin\Debug\net5.0\TodoApp.dll
+D:\testttt\todoapp\bin\Debug\net5.0\ref\TodoApp.dll
+D:\testttt\todoapp\bin\Debug\net5.0\TodoApp.pdb
+D:\testttt\todoapp\bin\Debug\net5.0\Humanizer.dll
+D:\testttt\todoapp\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\testttt\todoapp\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\testttt\todoapp\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\testttt\todoapp\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\testttt\todoapp\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\testttt\todoapp\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\testttt\todoapp\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+D:\testttt\todoapp\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\testttt\todoapp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\testttt\todoapp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\testttt\todoapp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\testttt\todoapp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\testttt\todoapp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\testttt\todoapp\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\testttt\todoapp\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\testttt\todoapp\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\testttt\todoapp\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\testttt\todoapp\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\testttt\todoapp\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\testttt\todoapp\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\testttt\todoapp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\testttt\todoapp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\testttt\todoapp\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\testttt\todoapp\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\testttt\todoapp\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+D:\testttt\todoapp\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+D:\testttt\todoapp\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+D:\testttt\todoapp\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\testttt\todoapp\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\testttt\todoapp\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\testttt\todoapp\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\testttt\todoapp\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\testttt\todoapp\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\testttt\todoapp\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\testttt\todoapp\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\testttt\todoapp\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\testttt\todoapp\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\testttt\todoapp\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\testttt\todoapp\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\testttt\todoapp\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\testttt\todoapp\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\testttt\todoapp\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\testttt\todoapp\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\testttt\todoapp\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\testttt\todoapp\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\testttt\todoapp\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\testttt\todoapp\obj\Debug\net5.0\TodoApp.csproj.AssemblyReference.cache
+D:\testttt\todoapp\obj\Debug\net5.0\TodoApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\testttt\todoapp\obj\Debug\net5.0\TodoApp.AssemblyInfoInputs.cache
+D:\testttt\todoapp\obj\Debug\net5.0\TodoApp.AssemblyInfo.cs
+D:\testttt\todoapp\obj\Debug\net5.0\TodoApp.csproj.CoreCompileInputs.cache
+D:\testttt\todoapp\obj\Debug\net5.0\TodoApp.MvcApplicationPartsAssemblyInfo.cs
+D:\testttt\todoapp\obj\Debug\net5.0\TodoApp.MvcApplicationPartsAssemblyInfo.cache
+D:\testttt\todoapp\obj\Debug\net5.0\staticwebassets\TodoApp.StaticWebAssets.Manifest.cache
+D:\testttt\todoapp\obj\Debug\net5.0\staticwebassets\TodoApp.StaticWebAssets.xml
+D:\testttt\todoapp\obj\Debug\net5.0\scopedcss\bundle\TodoApp.styles.css
+D:\testttt\todoapp\obj\Debug\net5.0\TodoApp.RazorTargetAssemblyInfo.cache
+D:\testttt\todoapp\obj\Debug\net5.0\TodoApp.csproj.CopyComplete
+D:\testttt\todoapp\obj\Debug\net5.0\TodoApp.dll
+D:\testttt\todoapp\obj\Debug\net5.0\ref\TodoApp.dll
+D:\testttt\todoapp\obj\Debug\net5.0\TodoApp.pdb
+D:\testttt\todoapp\obj\Debug\net5.0\TodoApp.genruntimeconfig.cache
+D:\Internship OCBC\Work\sesi 11\todoapp\bin\Debug\net5.0\appsettings.Development.json
+D:\Internship OCBC\Work\sesi 11\todoapp\bin\Debug\net5.0\appsettings.json
+D:\Internship OCBC\Work\sesi 11\todoapp\bin\Debug\net5.0\TodoApp.StaticWebAssets.xml
+D:\Internship OCBC\Work\sesi 11\todoapp\bin\Debug\net5.0\TodoApp.exe
+D:\Internship OCBC\Work\sesi 11\todoapp\bin\Debug\net5.0\TodoApp.deps.json
+D:\Internship OCBC\Work\sesi 11\todoapp\bin\Debug\net5.0\TodoApp.runtimeconfig.json
+D:\Internship OCBC\Work\sesi 11\todoapp\bin\Debug\net5.0\TodoApp.runtimeconfig.dev.json
+D:\Internship OCBC\Work\sesi 11\todoapp\bin\Debug\net5.0\TodoApp.dll
+D:\Internship OCBC\Work\sesi 11\todoapp\bin\Debug\net5.0\ref\TodoApp.dll
+D:\Internship OCBC\Work\sesi 11\todoapp\bin\Debug\net5.0\TodoApp.pdb
+D:\Internship OCBC\Work\sesi 11\todoapp\bin\Debug\net5.0\Humanizer.dll
+D:\Internship OCBC\Work\sesi 11\todoapp\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Internship OCBC\Work\sesi 11\todoapp\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Internship OCBC\Work\sesi 11\todoapp\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Internship OCBC\Work\sesi 11\todoapp\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Internship OCBC\Work\sesi 11\todoapp\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\Internship OCBC\Work\sesi 11\todoapp\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\Internship OCBC\Work\sesi 11\todoapp\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+D:\Internship OCBC\Work\sesi 11\todoapp\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Internship OCBC\Work\sesi 11\todoapp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Internship OCBC\Work\sesi 11\todoapp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Internship OCBC\Work\sesi 11\todoapp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Internship OCBC\Work\sesi 11\todoapp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Internship OCBC\Work\sesi 11\todoapp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Internship OCBC\Work\sesi 11\todoapp\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Internship OCBC\Work\sesi 11\todoapp\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\Internship OCBC\Work\sesi 11\todoapp\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Internship OCBC\Work\sesi 11\todoapp\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\Internship OCBC\Work\sesi 11\todoapp\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Internship OCBC\Work\sesi 11\todoapp\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Internship OCBC\Work\sesi 11\todoapp\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Internship OCBC\Work\sesi 11\todoapp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Internship OCBC\Work\sesi 11\todoapp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Internship OCBC\Work\sesi 11\todoapp\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Internship OCBC\Work\sesi 11\todoapp\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Internship OCBC\Work\sesi 11\todoapp\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+D:\Internship OCBC\Work\sesi 11\todoapp\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+D:\Internship OCBC\Work\sesi 11\todoapp\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+D:\Internship OCBC\Work\sesi 11\todoapp\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\Internship OCBC\Work\sesi 11\todoapp\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Internship OCBC\Work\sesi 11\todoapp\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Internship OCBC\Work\sesi 11\todoapp\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Internship OCBC\Work\sesi 11\todoapp\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Internship OCBC\Work\sesi 11\todoapp\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Internship OCBC\Work\sesi 11\todoapp\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\Internship OCBC\Work\sesi 11\todoapp\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Internship OCBC\Work\sesi 11\todoapp\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Internship OCBC\Work\sesi 11\todoapp\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Internship OCBC\Work\sesi 11\todoapp\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\Internship OCBC\Work\sesi 11\todoapp\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Internship OCBC\Work\sesi 11\todoapp\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Internship OCBC\Work\sesi 11\todoapp\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Internship OCBC\Work\sesi 11\todoapp\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Internship OCBC\Work\sesi 11\todoapp\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\Internship OCBC\Work\sesi 11\todoapp\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Internship OCBC\Work\sesi 11\todoapp\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\Internship OCBC\Work\sesi 11\todoapp\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\Internship OCBC\Work\sesi 11\todoapp\obj\Debug\net5.0\TodoApp.csproj.AssemblyReference.cache
+D:\Internship OCBC\Work\sesi 11\todoapp\obj\Debug\net5.0\TodoApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Internship OCBC\Work\sesi 11\todoapp\obj\Debug\net5.0\TodoApp.AssemblyInfoInputs.cache
+D:\Internship OCBC\Work\sesi 11\todoapp\obj\Debug\net5.0\TodoApp.AssemblyInfo.cs
+D:\Internship OCBC\Work\sesi 11\todoapp\obj\Debug\net5.0\TodoApp.csproj.CoreCompileInputs.cache
+D:\Internship OCBC\Work\sesi 11\todoapp\obj\Debug\net5.0\TodoApp.MvcApplicationPartsAssemblyInfo.cs
+D:\Internship OCBC\Work\sesi 11\todoapp\obj\Debug\net5.0\TodoApp.MvcApplicationPartsAssemblyInfo.cache
+D:\Internship OCBC\Work\sesi 11\todoapp\obj\Debug\net5.0\staticwebassets\TodoApp.StaticWebAssets.Manifest.cache
+D:\Internship OCBC\Work\sesi 11\todoapp\obj\Debug\net5.0\staticwebassets\TodoApp.StaticWebAssets.xml
+D:\Internship OCBC\Work\sesi 11\todoapp\obj\Debug\net5.0\scopedcss\bundle\TodoApp.styles.css
+D:\Internship OCBC\Work\sesi 11\todoapp\obj\Debug\net5.0\TodoApp.RazorTargetAssemblyInfo.cache
+D:\Internship OCBC\Work\sesi 11\todoapp\obj\Debug\net5.0\TodoApp.csproj.CopyComplete
+D:\Internship OCBC\Work\sesi 11\todoapp\obj\Debug\net5.0\TodoApp.dll
+D:\Internship OCBC\Work\sesi 11\todoapp\obj\Debug\net5.0\ref\TodoApp.dll
+D:\Internship OCBC\Work\sesi 11\todoapp\obj\Debug\net5.0\TodoApp.pdb
+D:\Internship OCBC\Work\sesi 11\todoapp\obj\Debug\net5.0\TodoApp.genruntimeconfig.cache
