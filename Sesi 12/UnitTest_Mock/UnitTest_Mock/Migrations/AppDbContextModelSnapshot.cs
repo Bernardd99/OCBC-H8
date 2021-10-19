@@ -25,7 +25,7 @@ namespace UnitTest_Mock.Migrations
                         .HasColumnType("int")
                         .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
 
-                    b.Property<string>("Designation")
+                    b.Property<string>("Desgination")
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Name")

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\testttt\\UnitTest_Mock\\unittest_mock\\UnitTest_Mock.csproj": {}
+    "D:\\Internship OCBC\\Work\\sesi 12\\unittest_mock\\unittest_mock\\UnitTest_Mock.csproj": {}
   },
   "projects": {
-    "D:\\testttt\\UnitTest_Mock\\unittest_mock\\UnitTest_Mock.csproj": {
+    "D:\\Internship OCBC\\Work\\sesi 12\\unittest_mock\\unittest_mock\\UnitTest_Mock.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\testttt\\UnitTest_Mock\\unittest_mock\\UnitTest_Mock.csproj",
+        "projectUniqueName": "D:\\Internship OCBC\\Work\\sesi 12\\unittest_mock\\unittest_mock\\UnitTest_Mock.csproj",
         "projectName": "UnitTest_Mock",
-        "projectPath": "D:\\testttt\\UnitTest_Mock\\unittest_mock\\UnitTest_Mock.csproj",
+        "projectPath": "D:\\Internship OCBC\\Work\\sesi 12\\unittest_mock\\unittest_mock\\UnitTest_Mock.csproj",
         "packagesPath": "C:\\Users\\Bernard\\.nuget\\packages\\",
-        "outputPath": "D:\\testttt\\UnitTest_Mock\\unittest_mock\\obj\\",
+        "outputPath": "D:\\Internship OCBC\\Work\\sesi 12\\unittest_mock\\unittest_mock\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Bernard\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -48,27 +48,15 @@
               "target": "Package",
               "version": "[5.0.11, )"
             },
-            "Microsoft.EntityFrameworkCore.Sqlite": {
-              "target": "Package",
-              "version": "[5.0.11, )"
-            },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
               "version": "[5.0.11, )"
             },
-            "Moq": {
-              "target": "Package",
-              "version": "[4.16.1, )"
-            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[5.6.3, )"
-            },
-            "Xunit": {
-              "target": "Package",
-              "version": "[2.4.1, )"
             }
           },
           "imports": [

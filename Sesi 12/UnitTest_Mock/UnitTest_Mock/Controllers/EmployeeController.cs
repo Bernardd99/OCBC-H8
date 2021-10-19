@@ -10,13 +10,13 @@ namespace UnitTest_Mock.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class EmployeeController : ControllerBase
+    public class EmployeeController
     {
-        #region property
+        #region Property
         private readonly IEmployeeService _employeeService;
         #endregion
 
-        #region constructor
+        #region Constructor
         public EmployeeController(IEmployeeService employeeService)
         {
             _employeeService = employeeService;
@@ -36,6 +36,5 @@ namespace UnitTest_Mock.Controllers
             var result = await _employeeService.GetEmployeeDetails(EmpID);
             return result;
         }
-
     }
 }
