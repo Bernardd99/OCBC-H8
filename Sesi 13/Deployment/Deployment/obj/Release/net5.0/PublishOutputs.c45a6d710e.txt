@@ -1,0 +1,11 @@
+C:\Users\Bernard\source\repos\Deployment\Deployment\bin\Release\net5.0\publish\Deployment.exe
+C:\Users\Bernard\source\repos\Deployment\Deployment\bin\Release\net5.0\publish\appsettings.Development.json
+C:\Users\Bernard\source\repos\Deployment\Deployment\bin\Release\net5.0\publish\appsettings.json
+C:\Users\Bernard\source\repos\Deployment\Deployment\bin\Release\net5.0\publish\Deployment.dll
+C:\Users\Bernard\source\repos\Deployment\Deployment\bin\Release\net5.0\publish\Deployment.deps.json
+C:\Users\Bernard\source\repos\Deployment\Deployment\bin\Release\net5.0\publish\Deployment.runtimeconfig.json
+C:\Users\Bernard\source\repos\Deployment\Deployment\bin\Release\net5.0\publish\Deployment.pdb
+C:\Users\Bernard\source\repos\Deployment\Deployment\bin\Release\net5.0\publish\Microsoft.OpenApi.dll
+C:\Users\Bernard\source\repos\Deployment\Deployment\bin\Release\net5.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Bernard\source\repos\Deployment\Deployment\bin\Release\net5.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Bernard\source\repos\Deployment\Deployment\bin\Release\net5.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
