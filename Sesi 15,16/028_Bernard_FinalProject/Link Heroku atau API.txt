@@ -1,0 +1,13 @@
+https://paymentapi28.herokuapp.com/
+
+-AuthManagement
+https://paymentapi28.herokuapp.com/AuthManagement/Register	{post}
+https://paymentapi28.herokuapp.com/AuthManagement/Login		{post}
+https://paymentapi28.herokuapp.com/AuthManagement/RefreshToken	{post}
+
+-PaymentDetail
+https://paymentapi28.herokuapp.com/PaymentDetail     {post}	CreateDetail
+https://paymentapi28.herokuapp.com/PaymentDetail     {get}	GetDetails
+https://paymentapi28.herokuapp.com/PaymentDetail/{}  {get}	GetDetail
+https://paymentapi28.herokuapp.com/PaymentDetail/{}  {put}	UpdateDetail
+https://paymentapi28.herokuapp.com/PaymentDetail/{}  {delete}	DeleteDetail

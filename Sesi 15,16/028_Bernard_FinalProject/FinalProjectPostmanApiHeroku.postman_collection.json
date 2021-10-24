@@ -1,0 +1,258 @@
+{
+	"info": {
+		"_postman_id": "2a9be969-f7bc-4d01-a5fd-454f75be0b0f",
+		"name": "FinalProjectPostmanApiHeroku",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Register Heroku",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"username\" : \"Bernard5\",\r\n    \"email\" : \"bernard5@gmail.com\",\r\n    \"password\" : \"Bernard%5\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://paymentapi28.herokuapp.com/api/authmanagement/register",
+					"protocol": "https",
+					"host": [
+						"paymentapi28",
+						"herokuapp",
+						"com"
+					],
+					"path": [
+						"api",
+						"authmanagement",
+						"register"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Login Heroku",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"email\" : \"bernard5@gmail.com\",\r\n    \"password\" : \"Bernard%5\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://paymentapi28.herokuapp.com/api/authmanagement/login",
+					"protocol": "https",
+					"host": [
+						"paymentapi28",
+						"herokuapp",
+						"com"
+					],
+					"path": [
+						"api",
+						"authmanagement",
+						"login"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Refresh Token Heroku",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"token\": \"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJJZCI6IjVlZDRhNDE3LWE0OWItNDdlZC1iYTJlLWQzNjA4OWM0MWQ3OSIsImVtYWlsIjoiYmVybmFyZDVAZ21haWwuY29tIiwic3ViIjoiYmVybmFyZDVAZ21haWwuY29tIiwianRpIjoiMTJjMGU1YTItMGY2NS00M2QxLWI2YmMtMzYyZTM3Y2U0MGVmIiwibmJmIjoxNjM1MDkyMDUwLCJleHAiOjE2MzUwOTIzNTAsImlhdCI6MTYzNTA5MjA1MH0.jxadUH40DSvblZrT6lAyZ7JrsjyBPHR1J5JeBg7WBnc\",\r\n    \"refreshToken\": \"EXAQ6N02IELI8IOHRDDVDBYXRFAIDPXJHU7765b7531-bbdb-416b-a589-5b1c2bee259a\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://paymentapi28.herokuapp.com/api/authmanagement/refreshtoken",
+					"protocol": "https",
+					"host": [
+						"paymentapi28",
+						"herokuapp",
+						"com"
+					],
+					"path": [
+						"api",
+						"authmanagement",
+						"refreshtoken"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GetDetails Heroku",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJJZCI6IjVlZDRhNDE3LWE0OWItNDdlZC1iYTJlLWQzNjA4OWM0MWQ3OSIsImVtYWlsIjoiYmVybmFyZDVAZ21haWwuY29tIiwic3ViIjoiYmVybmFyZDVAZ21haWwuY29tIiwianRpIjoiMTJjMGU1YTItMGY2NS00M2QxLWI2YmMtMzYyZTM3Y2U0MGVmIiwibmJmIjoxNjM1MDkyMDUwLCJleHAiOjE2MzUwOTIzNTAsImlhdCI6MTYzNTA5MjA1MH0.jxadUH40DSvblZrT6lAyZ7JrsjyBPHR1J5JeBg7WBnc",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "https://paymentapi28.herokuapp.com/api/PaymentDetail",
+					"protocol": "https",
+					"host": [
+						"paymentapi28",
+						"herokuapp",
+						"com"
+					],
+					"path": [
+						"api",
+						"PaymentDetail"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "CreateDetail Heroku",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJJZCI6IjVlZDRhNDE3LWE0OWItNDdlZC1iYTJlLWQzNjA4OWM0MWQ3OSIsImVtYWlsIjoiYmVybmFyZDVAZ21haWwuY29tIiwic3ViIjoiYmVybmFyZDVAZ21haWwuY29tIiwianRpIjoiY2I2N2U0MDktZDhjNy00YmVkLTk0OWEtNjIxNDY0YjFkNjFmIiwibmJmIjoxNjM1MDkyNDQ2LCJleHAiOjE2MzUwOTI3NDYsImlhdCI6MTYzNTA5MjQ0Nn0.OQDLLG4DvDuwS8NL-PlFqqvJWAFpF8yLf1RmwEkw9ZY",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"cardOwnerName\": \"Testing\",\r\n    \"cardNumber\": \"19283\",\r\n    \"expirationDate\": \"05-05-2005\",\r\n    \"securityCode\": \"5555\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://paymentapi28.herokuapp.com/api/PaymentDetail",
+					"protocol": "https",
+					"host": [
+						"paymentapi28",
+						"herokuapp",
+						"com"
+					],
+					"path": [
+						"api",
+						"PaymentDetail"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GetDetail Heroku",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJJZCI6IjVlZDRhNDE3LWE0OWItNDdlZC1iYTJlLWQzNjA4OWM0MWQ3OSIsImVtYWlsIjoiYmVybmFyZDVAZ21haWwuY29tIiwic3ViIjoiYmVybmFyZDVAZ21haWwuY29tIiwianRpIjoiY2I2N2U0MDktZDhjNy00YmVkLTk0OWEtNjIxNDY0YjFkNjFmIiwibmJmIjoxNjM1MDkyNDQ2LCJleHAiOjE2MzUwOTI3NDYsImlhdCI6MTYzNTA5MjQ0Nn0.OQDLLG4DvDuwS8NL-PlFqqvJWAFpF8yLf1RmwEkw9ZY",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "https://paymentapi28.herokuapp.com/api/PaymentDetail/4",
+					"protocol": "https",
+					"host": [
+						"paymentapi28",
+						"herokuapp",
+						"com"
+					],
+					"path": [
+						"api",
+						"PaymentDetail",
+						"4"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "UpdateDetail Heroku",
+			"request": {
+				"method": "PUT",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJJZCI6IjVlZDRhNDE3LWE0OWItNDdlZC1iYTJlLWQzNjA4OWM0MWQ3OSIsImVtYWlsIjoiYmVybmFyZDVAZ21haWwuY29tIiwic3ViIjoiYmVybmFyZDVAZ21haWwuY29tIiwianRpIjoiY2I2N2U0MDktZDhjNy00YmVkLTk0OWEtNjIxNDY0YjFkNjFmIiwibmJmIjoxNjM1MDkyNDQ2LCJleHAiOjE2MzUwOTI3NDYsImlhdCI6MTYzNTA5MjQ0Nn0.OQDLLG4DvDuwS8NL-PlFqqvJWAFpF8yLf1RmwEkw9ZY",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"paymentDetailId\": 4,\r\n    \"cardOwnerName\": \"Hacktiv8\",\r\n    \"cardNumber\": \"88888888\",\r\n    \"expirationDate\": \"08-08-2008\",\r\n    \"securityCode\": \"87654\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://paymentapi28.herokuapp.com/api/PaymentDetail/4",
+					"protocol": "https",
+					"host": [
+						"paymentapi28",
+						"herokuapp",
+						"com"
+					],
+					"path": [
+						"api",
+						"PaymentDetail",
+						"4"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "DeleteDetail Heroku",
+			"request": {
+				"method": "DELETE",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJJZCI6IjVlZDRhNDE3LWE0OWItNDdlZC1iYTJlLWQzNjA4OWM0MWQ3OSIsImVtYWlsIjoiYmVybmFyZDVAZ21haWwuY29tIiwic3ViIjoiYmVybmFyZDVAZ21haWwuY29tIiwianRpIjoiY2I2N2U0MDktZDhjNy00YmVkLTk0OWEtNjIxNDY0YjFkNjFmIiwibmJmIjoxNjM1MDkyNDQ2LCJleHAiOjE2MzUwOTI3NDYsImlhdCI6MTYzNTA5MjQ0Nn0.OQDLLG4DvDuwS8NL-PlFqqvJWAFpF8yLf1RmwEkw9ZY",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "https://paymentapi28.herokuapp.com/api/PaymentDetail/4",
+					"protocol": "https",
+					"host": [
+						"paymentapi28",
+						"herokuapp",
+						"com"
+					],
+					"path": [
+						"api",
+						"PaymentDetail",
+						"4"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
