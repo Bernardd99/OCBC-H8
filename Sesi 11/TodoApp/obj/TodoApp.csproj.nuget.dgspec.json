@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Internship OCBC\\work\\sesi 11\\todoapp\\TodoApp.csproj": {}
+    "D:\\Internship OCBC\\Work\\sesi 11\\todoapp\\TodoApp.csproj": {}
   },
   "projects": {
-    "D:\\Internship OCBC\\work\\sesi 11\\todoapp\\TodoApp.csproj": {
+    "D:\\Internship OCBC\\Work\\sesi 11\\todoapp\\TodoApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Internship OCBC\\work\\sesi 11\\todoapp\\TodoApp.csproj",
+        "projectUniqueName": "D:\\Internship OCBC\\Work\\sesi 11\\todoapp\\TodoApp.csproj",
         "projectName": "TodoApp",
-        "projectPath": "D:\\Internship OCBC\\work\\sesi 11\\todoapp\\TodoApp.csproj",
+        "projectPath": "D:\\Internship OCBC\\Work\\sesi 11\\todoapp\\TodoApp.csproj",
         "packagesPath": "C:\\Users\\Bernard\\.nuget\\packages\\",
-        "outputPath": "D:\\Internship OCBC\\work\\sesi 11\\todoapp\\obj\\",
+        "outputPath": "D:\\Internship OCBC\\Work\\sesi 11\\todoapp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Bernard\\AppData\\Roaming\\NuGet\\NuGet.Config",

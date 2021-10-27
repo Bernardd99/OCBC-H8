@@ -18,7 +18,7 @@ RUN dotnet restore
 RUN dotnet build --no-restore -c Release -o /app
 
 FROM build AS publish
-RUN dotnet publis --no-restore -c Release -o /app/publish
+RUN dotnet publish --no-restore -c Release -o /app
 
 FROM base AS final
 WORKDIR /app
