@@ -1,0 +1,35 @@
+<h1>Test Angular</h1>
+
+<app-header></app-header>
+<!-- <app-button (clickHandler)="addCounter()" [message] ="message" [name] ="title"></app-button> -->
+<app-button (clickHandler)="addCounter()" [name]="'Add'"></app-button>
+<app-button (clickHandler)="subCounter()" name=Sub></app-button>
+<app-button (clickHandler)="resetCounter()" name="Reset"></app-button>
+<p>{{counter}} times</p>
+
+<app-komponen1 [message]="message"></app-komponen1>
+
+<ul>
+    <li *ngFor="let item of items">{{item}}</li>
+</ul>
+<app-addnewitem (newItemEvent)="addItemInParent($event)"></app-addnewitem>
+
+<h1>Two-way Binding</h1>
+<div>
+    <label>Masukkan pesan: <input [(ngModel)]="message1"></label>
+    <p>Pesan yang dimasukan: {{ message1 }}</p>
+</div>
+
+<!-- Untuk menampilkan list of objects
+<ul>
+    <li *ngFor="let person of people" [ngStyle]="{'color': (person.country === 'USA') ? 'red' : (person.country === 'HK') ? 'blue' : (person.country === 'MARS') ? 'green' : ''}">
+        {{person.name}}, {{person.age}}th dari {{person.country}}
+    </li>
+</ul>
+
+<ul>
+    <li *ngFor="let person of people" [class.text-red]="person.country==='USA'" [class.text-blue]="person.country==='HK'" [class.text-green]="person.country==='MARS'">
+        {{person.name}}, {{person.age}}th dari {{person.country}}
+    </li>
+</ul> -->
+
