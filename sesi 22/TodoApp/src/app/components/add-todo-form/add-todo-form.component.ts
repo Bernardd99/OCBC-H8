@@ -1,5 +1,6 @@
 import { Component, OnInit, Output, EventEmitter } from '@angular/core';
 import { Todo } from '../../models/todo'
+import { FormGroup, FormControl, Validators } from '@angular/forms';
 
 @Component({
   selector: 'app-add-todo-form',
@@ -21,6 +22,8 @@ export class AddTodoFormComponent implements OnInit {
     this.newTodoEvent.emit(todo)
     this.inputTodo =="";
   }
+
+  
 
   constructor() { }
 

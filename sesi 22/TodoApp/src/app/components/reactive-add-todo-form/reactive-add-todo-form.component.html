@@ -1,0 +1,15 @@
+<form [formGroup]="addTodoForm" ngSubmit="addTodo()">
+    <div class="input-group mb-3">
+        <input (change)="onSubmitState()" type="text" id="inputTodo" name="inputTodo" placeholder="Enter Todo.." class="form-control"
+            formControlName="inputTodo" />
+        <input type="submit" value="Add Todo" class="btn btn-primary" (click)="addTodo()"/>
+    </div>
+    <span *ngIf="isSubmitted && inputTodo && inputTodo.invalid" style="color : red">
+        Todo Input is Invalid
+    </span>
+    <div>
+        <span *ngIf="isSubmitted && inputTodo?.errors?.minlength" style="color: red;">
+            Todo Input Minimum Length Need To Be {{ inputTodo?.errors?.minlength?.requiredLength }} characters
+        </span>
+    </div>
+</form>

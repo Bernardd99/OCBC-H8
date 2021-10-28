@@ -1,4 +1,5 @@
-<app-add-todo-form (newTodoEvent)="addTodo($event)"></app-add-todo-form>
+<!-- <app-add-todo-form (newTodoEvent)="addTodo($event)"></app-add-todo-form> -->
+<app-reactive-add-todo-form (newTodoEvent)="addTodo($event)"></app-reactive-add-todo-form>
 
 <ol *ngFor="let todo of todos let i =index;" class="list-group">
     <li class="list-group-item d-flex justify-content-between align-items start">
@@ -7,7 +8,8 @@
                 {{i + 1}}. {{todo.content}}
             </div>
         </div>
-        <button [disabled]="todo.isEdit" class="{{todo.completed  ?  'btn btn-success' : 'btn btn-primary'}} btn-sm completed"
+        <button [disabled]="todo.isEdit"
+            class="{{todo.completed  ?  'btn btn-success' : 'btn btn-primary'}} btn-sm completed"
             (click)="toogleDone(i)">
             <i class="bi bi-check-circle"></i>
         </button>
@@ -22,11 +24,17 @@
     <li *ngIf="todo.isEdit" class="list-group-item d-flex justify-content-between align-items start">
         <div class="ms-3 me-auto">
             <div class="input-group mb-3">
-                <input type="text" name="inputTodo" placeholder="Enter Editted Todo.." class="form-control"
+                <input type="text" name="inputTodo" placeholder="Input Edited Todo" class="form-control"
                     [(ngModel)]="todo.content" />
-                <button type="submit" value="Add Todo" class="btn btn-primary" (click)="todo.isEdit = !todo.isEdit">
+                <button [disabled]="todo.content.length < 5" type="submit" value="Add Todo" class="btn btn-primary"
+                    (click)="todo.isEdit = !todo.isEdit">
                     <i class="bi bi-check-all"></i>
                 </button>
+            </div>
+            <span [hidden]="todo.content != ''" style="color: red;">Todo Can't Be Empty!</span>
+            <div>
+                <span [hidden]="todo.content.length > 4 " style="color: red;">Todo Minimum Length Need To be 5
+                    Characters!</span>
             </div>
         </div>
     </li>
