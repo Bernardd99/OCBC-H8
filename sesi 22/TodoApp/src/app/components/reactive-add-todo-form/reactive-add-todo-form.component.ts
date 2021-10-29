@@ -33,8 +33,7 @@ export class ReactiveAddTodoFormComponent implements OnInit {
 
   addTodo() {
     this.isSubmitted = true
-    if (this.addTodoForm.value.inputTodo.length > 4) {
-
+    if (!this.addTodoForm.invalid) {
       const todo: Todo = {
         content: this.addTodoForm.value.inputTodo,
         completed: false,
