@@ -13,7 +13,7 @@
             (click)="toogleDone(i)">
             <i class="bi bi-check-circle"></i>
         </button>
-        <button [disabled]="todo.isEdit" class="btn btn-warning btn-sm" (click)="todo.isEdit = !todo.isEdit">
+        <button [hidden]="todo.isEdit" class="btn btn-warning btn-sm" (click)="todo.isEdit = !todo.isEdit">
             <i class="bi bi-pencil"></i>
         </button>
         <button [disabled]="todo.isEdit" class="btn btn-danger btn-sm" (click)="deleteTodo(i)">
