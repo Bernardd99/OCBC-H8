@@ -1,0 +1,29 @@
+<h1>Login Form</h1>
+
+<form [formGroup]="LoginForm" (ngSubmit)="onLogin()">
+    <div class="form-group">
+        <label for="name">Username</label>
+        <input (change)="onSubmitState()" type="text" class="form-control" id="username" name="username" formControlName="username">
+        <span *ngIf="isSubmitted && username && username.invalid" style="color: red">
+            Username Input is Invalid
+        </span>
+        <div>
+            <span *ngIf="isSubmitted && username?.errors?.minlength" style="color: red">
+                Username Minimum Length Need To Be {{ username?.errors?.minlength?.requiredLength }} characters
+            </span>
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label for="name">Password</label>
+        <input type="password" class="form-control" id="password" name="password" formControlName="password">
+    </div>
+
+    <button type="submit" class="btn btn-success">
+        Login
+    </button>
+
+    <div *ngIf="currentUser.isLogin">
+        Successfully login. Hello, {{currentUser.username}}
+    </div>
+</form>
